@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "Rain Over Me（feat. Marc Anthony）",
+  "base_artist": "Pitbull",
+  "createdAt": "2026-02-09T12:19:06.336611Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Rain Over Me (feat. Marc Anthony)",
+      "artist": "Pitbull",
+      "has_synced": true,
+      "path": "select/01_Rain_Over_Me_(feat._Marc_Anthony)_Pitbull.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Rain Over Me (feat. Marc Anthony)",
+      "artist": "Pitbull",
+      "has_synced": true,
+      "path": "select/02_Rain_Over_Me_(feat._Marc_Anthony)_Pitbull.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Rain Over Me (Feat. Marc Anthony)",
+      "artist": "Pitbull",
+      "has_synced": true,
+      "path": "select/03_Rain_Over_Me_(Feat._Marc_Anthony)_Pitbull.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Rain Over Me feat. Marc Anthony",
+      "artist": "Pitbull",
+      "has_synced": true,
+      "path": "select/04_Rain_Over_Me_feat._Marc_Anthony_Pitbull.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Rain Over Me (feat. Marc Anthony)",
+      "artist": "Pitbull",
+      "has_synced": true,
+      "path": "select/05_Rain_Over_Me_(feat._Marc_Anthony)_Pitbull.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Rain Over Me (feat. Marc Anthony)",
+      "artist": "Pitbull",
+      "has_synced": true,
+      "path": "select/06_Rain_Over_Me_(feat._Marc_Anthony)_Pitbull.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Rain Over Me (feat. Marc Anthony)",
+      "artist": "Pitbull",
+      "has_synced": true,
+      "path": "select/07_Rain_Over_Me_(feat._Marc_Anthony)_Pitbull.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Rain Over Me feat Marc Anthony",
+      "artist": "Pitbull",
+      "has_synced": true,
+      "path": "select/08_Rain_Over_Me_feat_Marc_Anthony_Pitbull.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Rain Over Me (feat. Marc Anthony)",
+      "artist": "Pitbull, Marc Anthony",
+      "has_synced": true,
+      "path": "select/09_Rain_Over_Me_(feat._Marc_Anthony)_Pitbull,_Marc_Anthony.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Rain Over Me (feat. Marc Anthony)",
+      "artist": "Pitbull, Marc Anthony",
+      "has_synced": true,
+      "path": "select/10_Rain_Over_Me_(feat._Marc_Anthony)_Pitbull,_Marc_Anthony.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Rain Over Me",
+      "artist": "Pitbull",
+      "has_synced": false,
+      "path": "select/pl_01_Rain_Over_Me_Pitbull.txt"
+    }
+  ]
+}
